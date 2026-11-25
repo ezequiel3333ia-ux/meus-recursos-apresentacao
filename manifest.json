@@ -1,78 +1,49 @@
 {
-  "versao": "1.0",
-  "recursos": {
-    "imagens": {},
-    "videos": {},
-    "audios": {},
-    "sonoplastiaPadrao": {
-      "aplausos": {
-        "url": "https://cdn.jsdelivr.net/gh/ezequiel3333ia-ux/meus-recursos-apresentacao@main/audios/padrao/1aplausos.mp3",
-        "tags": ["aplausos", "palmas", "ovacao"],
-        "descricao": "Som de aplausos"
-      },
-      "aura": {
-        "url": "https://cdn.jsdelivr.net/gh/ezequiel3333ia-ux/meus-recursos-apresentacao@main/audios/padrao/1aura.mp3",
-        "tags": ["aura", "energia", "atmosfera"],
-        "descricao": "Som de aura"
-      },
-      "bateria-piada": {
-        "url": "https://cdn.jsdelivr.net/gh/ezequiel3333ia-ux/meus-recursos-apresentacao@main/audios/padrao/1bateria-piada.mp3",
-        "tags": ["bateria", "piada", "humor", "rimshot"],
-        "descricao": "Bateria de piada"
-      },
-      "mission-san-andreas": {
-        "url": "https://cdn.jsdelivr.net/gh/ezequiel3333ia-ux/meus-recursos-apresentacao@main/audios/padrao/1mission-san-andreas.mp3",
-        "tags": ["mission", "san-andreas", "gta", "game"],
-        "descricao": "Som do GTA San Andreas"
-      },
-      "erro-1": {
-        "url": "https://cdn.jsdelivr.net/gh/ezequiel3333ia-ux/meus-recursos-apresentacao@main/audios/padrao/2-erro-1.mp3",
-        "tags": ["erro", "errado", "fail"],
-        "descricao": "Som de erro 1"
-      },
-      "erro-2": {
-        "url": "https://cdn.jsdelivr.net/gh/ezequiel3333ia-ux/meus-recursos-apresentacao@main/audios/padrao/2-erro-2.mp3",
-        "tags": ["erro", "errado", "fail"],
-        "descricao": "Som de erro 2"
-      },
-      "trompeta": {
-        "url": "https://cdn.jsdelivr.net/gh/ezequiel3333ia-ux/meus-recursos-apresentacao@main/audios/padrao/2sad-trompeta.mp3",
-        "tags": ["trompeta", "triste", "sad", "decepcionado"],
-        "descricao": "Trompeta triste"
-      },
-      "xiii": {
-        "url": "https://cdn.jsdelivr.net/gh/ezequiel3333ia-ux/meus-recursos-apresentacao@main/audios/padrao/2xiii.mp3",
-        "tags": ["xiii", "treze", "suspense"],
-        "descricao": "Som XIII"
-      },
-      "core": {
-        "url": "https://cdn.jsdelivr.net/gh/ezequiel3333ia-ux/meus-recursos-apresentacao@main/audios/padrao/3core.mp3",
-        "tags": ["core", "nucleo", "principal"],
-        "descricao": "Som core"
-      },
-      "eupa": {
-        "url": "https://cdn.jsdelivr.net/gh/ezequiel3333ia-ux/meus-recursos-apresentacao@main/audios/padrao/3eupa.mp3",
-        "tags": ["eupa", "euphoria", "alegria"],
-        "descricao": "Som euforia"
-      },
-      "rapaz": {
-        "url": "https://cdn.jsdelivr.net/gh/ezequiel3333ia-ux/meus-recursos-apresentacao@main/audios/padrao/3rapaz.mp3",
-        "tags": ["rapaz", "homem", "voz"],
-        "descricao": "Som de rapaz"
-      },
-      "cicero-chata": {
-        "url": "https://cdn.jsdelivr.net/gh/ezequiel3333ia-ux/meus-recursos-apresentacao@main/audios/padrao/4cicero-chata.mp3",
-        "tags": ["cicero", "chato", "irritante"],
-        "descricao": "Som Cícero chato"
-      },
-      "som-atencao": {
-        "url": "https://cdn.jsdelivr.net/gh/ezequiel3333ia-ux/meus-recursos-apresentacao@main/audios/padrao/4som-atencao-duuum.mp3",
-        "tags": ["atencao", "alerta", "duuum"],
-        "descricao": "Som de atenção"
-      }
-    },
-    "sonsExclusivos": {},
-    "modelos3d": {},
-    "videos": {}
-  }
+  "repo_owner": "ezequiel3333ia-ux",
+  "repo_name": "meus-recursos-apresentacao",
+  "branch": "main",
+  "base_url": "https://raw.githubusercontent.com/ezequiel3333ia-ux/meus-recursos-apresentacao/main",
+  "teclado": {
+    "1": "audios/audios/padrao/1aplausos.mp3",
+    "2": "audios/audios/padrao/1aura.mp3",
+    "3": "audios/audios/padrao/1bateria piada.mp3",
+    "4": "audios/audios/padrao/1mission san andreas.mp3",
+    "7": "audios/audios/padrao/2 erro 1.mp3",
+    "8": "audios/audios/padrao/2 erro 2.mp3",
+    "9": "audios/audios/padrao/2sad trompeta.mp3",
+    "0": "audios/audios/padrao/2xiiii.mp3",
+    "q": "audios/audios/padrao/3core.mp3",
+    "w": "audios/audios/padrao/3eupa.mp3",
+    "e": "audios/audios/padrao/3rapaz.mp3",
+    "z": "audios/audios/padrao/4cirene chata.mp3",
+    "c": "audios/audios/padrao/4som atenção duuum.mp3",
+    "g": "audios/audios/padrao/5relogio.mp3",
+    "h": "audios/audios/padrao/6among.mp3",
+    "j": "audios/audios/padrao/6dinheiro.mp3",
+    "k": "audios/audios/padrao/6misterio.mp3",
+    "l": "audios/audios/padrao/6pantera cor de rosa.mp3",
+    "m": "audios/audios/padrao/6travis transison.mp3",
+    "y": "audios/audios/padrao/7buzina festa.mp3",
+    "u": "audios/audios/padrao/7iiih haa.mp3",
+    "i": "audios/audios/padrao/8review refrash.mp3"
+  },
+  "ambiente": [
+    "audios/audios/padrao/7faah.mp3"
+  ],
+  "imagens": {
+    "cenas": [
+      "imagens/cenas/cidade.webp"
+    ],
+    "charge": [
+      "imagens/charge/PERSAS.png"
+    ],
+    "demais": [
+      "imagens/demais/relogio.webp"
+    ],
+    "gif": [
+      "imagens/gif/0728.gif"
+    ]
+  },
+  "modelos3d": [],
+  "videos": []
 }
