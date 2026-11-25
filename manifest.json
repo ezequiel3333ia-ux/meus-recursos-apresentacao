@@ -1,29 +1,78 @@
 {
-  "versao": "1.",
+  "versao": "1.0",
   "recursos": {
     "imagens": {},
     "videos": {},
     "audios": {},
     "sonoplastiaPadrao": {
       "aplausos": {
-        "url": "https://cdn.jsdelivr.net/gh/ezequiel3333ia-ux/meus-recursos-apresentacao@main/audios/padrao/aplausos.mp3",
-        "tags": ["aplausos", "palmas"],
+        "url": "https://cdn.jsdelivr.net/gh/ezequiel3333ia-ux/meus-recursos-apresentacao@main/audios/padrao/1aplausos.mp3",
+        "tags": ["aplausos", "palmas", "ovacao"],
         "descricao": "Som de aplausos"
       },
-      "click": {
-        "url": "https://cdn.jsdelivr.net/gh/ezequiel3333ia-ux/meus-recursos-apresentacao@main/audios/padrao/click.mp3",
-        "tags": ["click", "clique"],
-        "descricao": "Click de interface"
+      "aura": {
+        "url": "https://cdn.jsdelivr.net/gh/ezequiel3333ia-ux/meus-recursos-apresentacao@main/audios/padrao/1aura.mp3",
+        "tags": ["aura", "energia", "atmosfera"],
+        "descricao": "Som de aura"
       },
-      "whoosh": {
-        "url": "https://cdn.jsdelivr.net/gh/ezequiel3333ia-ux/meus-recursos-apresentacao@main/audios/padrao/whoosh.mp3",
-        "tags": ["whoosh", "vento", "transicao"],
-        "descricao": "Som de transição"
+      "bateria-piada": {
+        "url": "https://cdn.jsdelivr.net/gh/ezequiel3333ia-ux/meus-recursos-apresentacao@main/audios/padrao/1bateria-piada.mp3",
+        "tags": ["bateria", "piada", "humor", "rimshot"],
+        "descricao": "Bateria de piada"
+      },
+      "mission-san-andreas": {
+        "url": "https://cdn.jsdelivr.net/gh/ezequiel3333ia-ux/meus-recursos-apresentacao@main/audios/padrao/1mission-san-andreas.mp3",
+        "tags": ["mission", "san-andreas", "gta", "game"],
+        "descricao": "Som do GTA San Andreas"
+      },
+      "erro-1": {
+        "url": "https://cdn.jsdelivr.net/gh/ezequiel3333ia-ux/meus-recursos-apresentacao@main/audios/padrao/2-erro-1.mp3",
+        "tags": ["erro", "errado", "fail"],
+        "descricao": "Som de erro 1"
+      },
+      "erro-2": {
+        "url": "https://cdn.jsdelivr.net/gh/ezequiel3333ia-ux/meus-recursos-apresentacao@main/audios/padrao/2-erro-2.mp3",
+        "tags": ["erro", "errado", "fail"],
+        "descricao": "Som de erro 2"
+      },
+      "trompeta": {
+        "url": "https://cdn.jsdelivr.net/gh/ezequiel3333ia-ux/meus-recursos-apresentacao@main/audios/padrao/2sad-trompeta.mp3",
+        "tags": ["trompeta", "triste", "sad", "decepcionado"],
+        "descricao": "Trompeta triste"
+      },
+      "xiii": {
+        "url": "https://cdn.jsdelivr.net/gh/ezequiel3333ia-ux/meus-recursos-apresentacao@main/audios/padrao/2xiii.mp3",
+        "tags": ["xiii", "treze", "suspense"],
+        "descricao": "Som XIII"
+      },
+      "core": {
+        "url": "https://cdn.jsdelivr.net/gh/ezequiel3333ia-ux/meus-recursos-apresentacao@main/audios/padrao/3core.mp3",
+        "tags": ["core", "nucleo", "principal"],
+        "descricao": "Som core"
+      },
+      "eupa": {
+        "url": "https://cdn.jsdelivr.net/gh/ezequiel3333ia-ux/meus-recursos-apresentacao@main/audios/padrao/3eupa.mp3",
+        "tags": ["eupa", "euphoria", "alegria"],
+        "descricao": "Som euforia"
+      },
+      "rapaz": {
+        "url": "https://cdn.jsdelivr.net/gh/ezequiel3333ia-ux/meus-recursos-apresentacao@main/audios/padrao/3rapaz.mp3",
+        "tags": ["rapaz", "homem", "voz"],
+        "descricao": "Som de rapaz"
+      },
+      "cicero-chata": {
+        "url": "https://cdn.jsdelivr.net/gh/ezequiel3333ia-ux/meus-recursos-apresentacao@main/audios/padrao/4cicero-chata.mp3",
+        "tags": ["cicero", "chato", "irritante"],
+        "descricao": "Som Cícero chato"
+      },
+      "som-atencao": {
+        "url": "https://cdn.jsdelivr.net/gh/ezequiel3333ia-ux/meus-recursos-apresentacao@main/audios/padrao/4som-atencao-duuum.mp3",
+        "tags": ["atencao", "alerta", "duuum"],
+        "descricao": "Som de atenção"
       }
     },
     "sonsExclusivos": {},
     "modelos3d": {},
-    "mapas": {},
-    "documentos": {}
+    "videos": {}
   }
 }
