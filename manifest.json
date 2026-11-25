@@ -1,0 +1,29 @@
+{
+  "versao": "1.",
+  "recursos": {
+    "imagens": {},
+    "videos": {},
+    "audios": {},
+    "sonoplastiaPadrao": {
+      "aplausos": {
+        "url": "https://cdn.jsdelivr.net/gh/ezequiel3333ia-ux/meus-recursos-apresentacao@main/audios/padrao/aplausos.mp3",
+        "tags": ["aplausos", "palmas"],
+        "descricao": "Som de aplausos"
+      },
+      "click": {
+        "url": "https://cdn.jsdelivr.net/gh/ezequiel3333ia-ux/meus-recursos-apresentacao@main/audios/padrao/click.mp3",
+        "tags": ["click", "clique"],
+        "descricao": "Click de interface"
+      },
+      "whoosh": {
+        "url": "https://cdn.jsdelivr.net/gh/ezequiel3333ia-ux/meus-recursos-apresentacao@main/audios/padrao/whoosh.mp3",
+        "tags": ["whoosh", "vento", "transicao"],
+        "descricao": "Som de transição"
+      }
+    },
+    "sonsExclusivos": {},
+    "modelos3d": {},
+    "mapas": {},
+    "documentos": {}
+  }
+}
